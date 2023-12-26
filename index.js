@@ -14,7 +14,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://main--fabulous-malabi-e0fca9.netlify.app",
+    origin: "https://sprightly-beignet-f99574.netlify.app",
   })
 );
 
